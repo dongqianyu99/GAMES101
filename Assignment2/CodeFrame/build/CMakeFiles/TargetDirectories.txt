@@ -1,0 +1,3 @@
+/home/dongqianyu/GAMES101/Assignment2/CodeFrame/build/CMakeFiles/Rasterizer.dir
+/home/dongqianyu/GAMES101/Assignment2/CodeFrame/build/CMakeFiles/edit_cache.dir
+/home/dongqianyu/GAMES101/Assignment2/CodeFrame/build/CMakeFiles/rebuild_cache.dir
